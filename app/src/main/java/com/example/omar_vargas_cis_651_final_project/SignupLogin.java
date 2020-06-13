@@ -58,7 +58,7 @@ public class SignupLogin extends AppCompatActivity {
         if (email.getText().toString().equals("") || password.getText().toString().equals("") ||
                 phoneNumber.getText().toString().equals("") || displayName.getText().toString().equals("")) {
             Toast.makeText(this, "Please provide all information.", Toast.LENGTH_SHORT).show();
-            return;
+            return;//test
         }
         mAuth.signInWithEmailAndPassword(email.getText().toString(), password.getText().toString())
                 .addOnSuccessListener(this, new OnSuccessListener<AuthResult>() {
