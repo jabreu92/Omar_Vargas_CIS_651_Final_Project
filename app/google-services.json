@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "246499355696",
+    "firebase_url": "https://cis-651-final-project-4db28.firebaseio.com",
+    "project_id": "cis-651-final-project-4db28",
+    "storage_bucket": "cis-651-final-project-4db28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246499355696:android:afe8aceb72d1b52763d1f5",
+        "android_client_info": {
+          "package_name": "com.example.omar_vargas_cis_651_final_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246499355696-6d1ndmr7qst6ck8eisdl0kbe2k8usmme.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL9SIYViaFzrQqBqkhXuqPd7zi2QuZ5Jo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246499355696-6d1ndmr7qst6ck8eisdl0kbe2k8usmme.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
